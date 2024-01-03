@@ -14,7 +14,7 @@ const About = () =>{
                             <p className="about_description">
                                 My Name is Shaikh Arbaj Dilip. I am From Shirdi . I did my graduation in BSC(computer Science) from Pune University at R.B.N.B College Shrirampur. And I Completed My Full Stack web Development Course From Bitcode Technologies Pune.
                             </p>
-                            <a href="" className="button button--flex">Download CV <i class="fa-solid fa-download"></i></a>
+                            <a href="" className="button button--flex">Download My Resume<i class="fa-solid fa-download"></i></a>
                        </div>
                   </div>
             </section>
